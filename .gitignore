@@ -1,0 +1,11 @@
+# SolidWorks lock and temporary files
+~$*
+*.tmp
+*.bak
+*.swp
+console.log
+Backup of *
+
+# Windows
+Thumbs.db
+desktop.ini
